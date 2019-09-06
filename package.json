@@ -22,16 +22,22 @@
   "dependencies": {
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.13"
+    "mongoose": "^5.6.13",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
     "@babel/node": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
     "babel-plugin-module-resolver": "^3.2.0",
+    "css-loader": "^3.2.0",
+    "mini-css-extract-plugin": "^0.8.0",
     "nodemon": "^1.19.2",
     "prettier": "^1.18.2",
+    "vue-loader": "^15.7.1",
+    "vue-template-compiler": "^2.6.10",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.8",
     "webpack-dev-middleware": "^3.7.1"
